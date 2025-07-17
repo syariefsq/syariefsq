@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Syarief Qayum Suaib
 
-Welcome to my GitHub profile! I’m a data-driven explorer with 5+ years of experience in FMCG Key Account Management and Trade Marketing, now transitioning into the world of Data Science and Analytics. My passion lies in transforming raw data into actionable strategies that help brands understand consumer behavior, anticipate market shifts, and unlock new growth opportunities.
+Welcome to my GitHub profile! I am a data science and analytics professional with over 5 years of experience in FMCG Key Account Management and Trade Marketing. My expertise bridges commercial strategy and technical data, empowering brands to make strategic, data-driven decisions.
 
 ---
 ### 🚀 About Me
@@ -18,38 +18,37 @@ Welcome to my GitHub profile! I’m a data-driven explorer with 5+ years of expe
 - **Cloud & DevOps**: Docker, AWS, Apache Airflow, Streamlit, FastAPI
 - **Others**: Jupyter Notebooks, VS Code, Git, GitHub, Excel, PowerPoint, Jira
 ---
-### 📊 Data Projects
+### 📚 Data Projects 
 
-- **[ETL Pipeline for NYC Airbnb Performance Analysis](http://dad)**  
-  Automated data pipelines, validated data quality, and visualized Airbnb listing insights using PostgreSQL, Airflow, Great Expectations, and Kibana.
+I've worked on various data projects, including:
 
-- **[Image Classification using MobileNetV2 (CNN)](http://ad)**  
-  Built a deep learning model to classify road images (clean/dirty) and deployed it as a Streamlit app on HuggingFace.
+**🏙️ ETL Pipeline for NYC Airbnb Performance Analysis**
+- Engineered an automated ETL pipeline to analyze listing performance in NYC Airbnb. 
+- **Tech stack:** Python, Pandas, PostgreSQL, Apache Airflow, Great Expectations, Elasticsearch, Kibana
 
-- **[Machine Learning Classification for Student Placement](http://a)**  
-  Developed and deployed an end-to-end ML solution to predict MBA student placement outcomes.
+**📷 Image Classification using MobileNetV2 (CNN)**
+- Developed a deep learning model to classify road images using Convolutional Neural Networks (CNNs). 
+- **Tech stack:** Python, TensorFlow, Keras, Scikit-learn, Pandas, Matplotlib, Streamlit, HuggingFace
 
-- **[Zara In-Store Data Analysis](http://ed)**  
-  Uncovered retail insights through descriptive and inferential statistics using Python and Tableau.
----
-### 🎓 Education
+**🧑🏻‍🎓 Machine Learning Classification for Student Placement**
+- Built an end-to-end project to forecast MBA placement using machine learning. 
+- **Tech stack:** Python, Pandas, Scikit-learn, XGBoost, Streamlit, HuggingFace
 
-- **Hacktiv8, Jakarta** – Full Stack Data Scientist Program (Apr 2025 – Jul 2025)
-- **Maastricht University, Netherlands** – Master in Management (Marketing) (2018 – 2019)
-- **Brawijaya University, Indonesia** – Bachelor of Economics (Marketing) (2012 – 2015)
----
-### 🌱 What I’m Learning
-
-Currently geeking out over machine learning, cloud deployment, and making data sing through beautiful visualizations.
+**📈 Zara In-Store Placement and Sales Analysis**
+- Conducted data analysis using Pandas Library with descriptive and inferential statistics approach.
+- **Tech stack:** Python, Pandas Lib, Matplotlib, Scipy, and Tableau
 
 ---
-### 🤝 Let’s Connect
+### 📲 Get in Touch 
 
-Interested in collaborating on data science projects, retail analytics, or just want to talk shop?  
-- 📫 Reach me at: [LinkedIn](#) | [Email](#)
+Feel free to connect with me on:
+
+* [GitHub](https://github.com/[https://github.com/syariefsq])
+* [LinkedIn](https://www.linkedin.com/in/[https://www.linkedin.com/in/syariefqayum/])
+* [Email](mailto:[syarif.qayyum@gmail.com])
 
 ---
 
-*“In God we trust, all others must bring data.”* — W. Edwards Deming
+Let's collaborate and drive business growth through data-driven insights! 🚀
 
-Let’s turn data into decisions and make an impact together!
+---
