@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/NLTK-9B59B6?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Statsmodels-2D3E50?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Statsmodels"/>
+  <img src="https://img.shields.io/badge/Statsmodels-2D3E50?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels"/>
 </p>
 
 ### Visualization & Reporting
