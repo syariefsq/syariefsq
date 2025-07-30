@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial and technical experience—from managing global FMCG brands to building robust data solutions. My journey is all about connecting business needs with the power of analytics and machine learning.
 
----
+
 
 ## 🚀 My Story & Motivation
 
@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
 - I made a bold switch: diving deep into Python, machine learning, and cloud tools to bridge the gap between business and tech.
 - I thrive on solving real-world problems—whether that means optimizing sales, predicting outcomes, or automating workflows.
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -20,9 +20,15 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
 - **Cloud & DevOps:** Docker, AWS, Apache Airflow, Streamlit, FastAPI
 - **Other:** Jupyter, VS Code, Git, Excel, PowerPoint, Jira
 
----
 
 ## 📚 Projects I've Built
+
+**🌸 [Wangi Perfume Recommender](https://github.com/syariefsq/wangi-perfume-recommender)**  
+*AI-powered app for personalized perfume recommendations based on real customer reviews and user scent preferences, tailored for the Indonesian market.*  
+- Scraped and analyzed 1,000+ perfume products and reviews from femaledaily.com  
+- Used NLP and semantic search to match user queries with suitable perfumes  
+- Built a real-time recommendation engine and deployed it as a web app with Streamlit and HuggingFace  
+- Delivered actionable insights for both shoppers and brands on fragrance trends and preferences
 
 **🏙️ [NYC Airbnb ETL & Analytics](https://github.com/syariefsq/ETL-Pipeline-NYC-Airbnb-Performance-Analysis)**  
 *Automated an end-to-end pipeline to analyze Airbnb listings and market trends in NYC.*  
@@ -44,7 +50,6 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
 - Transformed raw retail data into strategic recommendations using pandas, matplotlib, and Tableau  
 - Provided clear, data-backed guidance for optimizing merchandising strategies
 
----
 
 ## 💡 What I’ve Learned
 
@@ -52,7 +57,6 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
 - The art of storytelling with data—making complex insights accessible and actionable
 - The value of persistence: every challenge (from data cleaning to deployment bugs) has made me a stronger, more adaptable problem solver
 
----
 
 ## 🤝 Let’s Connect!
 
