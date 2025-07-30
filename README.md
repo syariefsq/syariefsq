@@ -14,11 +14,11 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, SQL
-- **Data Science:** pandas, NumPy, scikit-learn, TensorFlow, Keras, NLTK, statsmodels
-- **Visualization:** matplotlib, seaborn, Tableau, Power BI, Looker Studio, Kibana
-- **Cloud & DevOps:** Docker, AWS, Apache Airflow, Streamlit, FastAPI
-- **Other:** Jupyter, VS Code, Git, Excel, PowerPoint, Jira
+- **Programming Languages:** Python, SQL
+- **Data Science & Machine Learning:** Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, NLTK, Selenium, Statsmodels  
+  *(covering Regression, Classification, Clustering, Time Series, NLP, Deep Learning)*
+- **Visualization & Reporting:** Tableau, Power BI, Looker Studio, Matplotlib, Seaborn, Elastic Kibana
+- **Tools & Platforms:** Jupyter Notebooks, VS Code, Git/GitHub, Docker, AWS, FastAPI, Streamlit, Apache Airflow, Excel, Jira, MongoDB
 
 
 ## 📚 Projects I've Built
