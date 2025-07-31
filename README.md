@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Syarief Qayum Suaib
 
-Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial and technical experience—from managing global FMCG brands to building robust data solutions. My journey is all about connecting business needs with the power of analytics and machine learning.
+Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial and technical experience—from managing global FMCG brands to building robust data and ML solutions. My journey is all about connecting business needs with the power of analytics and machine learning.
 
 
 
