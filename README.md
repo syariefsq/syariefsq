@@ -63,6 +63,16 @@ Welcome to my GitHub! I’m a data enthusiast with a unique blend of commercial 
 
 ## 📚 Projects I've Built
 
+**🧠 [FMCG Promotion Copy Re-use Recommender](https://github.com/syariefsq/fmcg-promo-semantic-llm)**  
+*AI-powered semantic search and analysis tool for FMCG promotional copy. Enables marketers and trade marketing teams to find, classify, and re-use high-performing headlines using LLMs, emotion analysis, and KPI filters. Modular Python project with Streamlit dashboard—showcasing practical data science and modern NLP for marketing.*  
+- Semantic search to find similar promotional headlines using AI embeddings  
+- Emotion analysis to detect tone (excitement, urgency, trust, joy, etc.)  
+- Zero-shot classification for promo types (Price-off, Bundle, Value-add, Sampling, Contest)  
+- KPI filtering (sales lift, ROI)  
+- SKU copy re-use recommendations  
+- Interactive dashboard via Streamlit
+- Modular, agent-compatible architecture for extensibility
+
 **🌸 [Wangi Perfume Recommender](https://github.com/syariefsq/wangi-perfume-recommender)**  
 *AI-powered app for personalized perfume recommendations based on real customer reviews and user scent preferences, tailored for the Indonesian market.*  
 - Scraped and analyzed 1,000+ perfume products and reviews from femaledaily.com  
